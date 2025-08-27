@@ -32,15 +32,9 @@
 
 - В репозитории находятся проекты, которые делал во время спринта по Fronted разработке
 
-### 📊 Активность на GitHub
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ### 📫 Свяжитесь со мной
 
 - **Telegram:** [@Heimdor](https://t.me/heimdor) (предпочтительный способ)
-- **Email:** [your.email@domain.com](mailto:stivrat91@yandex.ru)
+- **Email:** [stivrat91@yandex.ru](mailto:stivrat91@yandex.ru)
 
 Я всегда открыт к обсуждению новых возможностей и интересных проектов!
